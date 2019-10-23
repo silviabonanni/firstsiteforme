@@ -1,0 +1,61 @@
+/*******GENERAL********/
+
+body {
+	font-family: 'Helvetica', 'Arial', Sans-serif;
+	margin: 0;
+}
+
+ a{
+ 	color: #ffd479;
+ 	text-decoration: none;
+ } 
+
+ li{
+ 	display: inline-block;
+ }
+
+ /*******************HEADER*********/
+ #header {
+ 	background-color: #F5D3C8;
+ 	color: #725752;
+ 	padding-bottom: 0;
+}
+
+
+	h1 { 
+		font-size: 36px;
+		padding:50px 0px 5px 0px;
+		margin: 0 auto;
+		text-align: center;
+		font-family: 'Abril Fatface', cursive;
+
+ }
+
+  h2{
+ 		font-size: 36px;
+		margin: 0 auto;
+		text-align: center;
+		font-family: 'Comfortaa', cursive; color: #ffffff;
+ }
+
+.nav{
+    background-color: #C68975;
+    text-align: center;   
+}
+
+.nav li {
+	display: inline-block;
+	padding:  6px 10px 6px 10px; 
+}
+
+.nav li a {
+	color: #F7F7F2;
+	padding: 6px 0px 6px 0px; 
+}
+
+.nav li .hover {
+	background-color: #ffffff;
+
+}
+ /*******************CONTENT**********/
+ #content
